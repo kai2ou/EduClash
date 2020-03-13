@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,link.springer.com
 
 # pt站
 DOMAIN-SUFFIX,tjupt.org
+# edu订阅地址直连（走代理可能更新会出错）
+DOMAIN-SUFFIX,api.lovess.top
 
 # Apple
 DOMAIN-SUFFIX,music.apple.com
