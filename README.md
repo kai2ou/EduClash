@@ -1,4 +1,5 @@
 # EduClash自定义配置
+[好好学习](https://edu.lovess.top/register?aff=86721)
 使用方法：clash订阅后面加速  &config=https://raw.githubusercontent.com/kai2ou/EduClash/master/default.ini
 
 节点list过滤  利用正则参数过滤节点：
