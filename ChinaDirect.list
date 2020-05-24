@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,i.pcbeta.com
+DOMAIN-SUFFIX,bbs.pcbeta.com
 
 # LAN
 DOMAIN-SUFFIX,local
