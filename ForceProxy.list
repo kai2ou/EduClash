@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,rarbgunblocked.org
 DOMAIN-SUFFIX,edu.lovess.top
 DOMAIN-SUFFIX,updayday.xyz
 DOMAIN-SUFFIX,dl.juhuitv.com
+# 直播吧过滤首页下载客服端广告
+DOMAIN,zhibo8.cc
