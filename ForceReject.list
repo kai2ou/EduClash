@@ -1,0 +1,2 @@
+#强制过滤，防止应用自动下载更新
+DOMAIN-SUFFIX,downloads.pdfexpert.com
